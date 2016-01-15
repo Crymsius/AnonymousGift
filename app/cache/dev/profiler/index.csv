@@ -14,3 +14,6 @@ ff1623,::1,GET,http://localhost:8888/anonymous-gift/anonymous-gift/web/app_dev.p
 248e21,::1,GET,http://localhost:8888/anonymous-gift/anonymous-gift/web/app_dev.php/log,1452681343,0393cb,200
 0393cb,::1,GET,http://localhost:8888/anonymous-gift/anonymous-gift/web/app_dev.php/log,1452681343,,404
 cb7599,::1,GET,http://localhost:8888/anonymous-gift/anonymous-gift/web/app_dev.php/,1452859766,,200
+bd3ca0,::1,GET,http://localhost:8888/anonymous-gift/anonymous-gift/web/app_dev.php/login,1452860605,,200
+f5822e,::1,POST,http://localhost:8888/anonymous-gift/anonymous-gift/web/app_dev.php/login_check,1452860623,,302
+1d45f3,::1,GET,http://localhost:8888/anonymous-gift/anonymous-gift/web/app_dev.php/,1452860623,,200
